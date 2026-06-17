@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "url": "https://raw.githubusercontent.com/Josh7bird/stock-terminal-updates/main/firmware/stock-terminal-1.0.2.bin",
-  "md5": "04D0B62E4736F23CBB42A9AF83AA7D1A",
-  "notes": "Fixes daily portfolio change calculation and cleans up the portfolio screen."
+  "version": "1.0.3",
+  "url": "https://raw.githubusercontent.com/Josh7bird/stock-terminal-updates/main/firmware/stock-terminal-1.0.3.bin",
+  "md5": "D77979235D2049462839CCB7822E0EBC",
+  "notes": "Fixes OTA update start behavior and portfolio daily change display."
 }
