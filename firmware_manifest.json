@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "url": "https://raw.githubusercontent.com/Josh7bird/stock-terminal-updates/main/firmware/V4.bin",
-  "md5": "59BEAE29526D017B29D1C728C7246BCE",
-  "notes": "whaddup nigga"
+  "version": "1.0.5",
+  "url": "https://raw.githubusercontent.com/Josh7bird/stock-terminal-updates/main/stock-terminal-1.0.5.bin",
+  "md5": "cec59c74dfc5a9ad7497fe9ebd43db59",
+  "notes": "Added a private stocks-only mode that does not store portfolio quantities."
 }
