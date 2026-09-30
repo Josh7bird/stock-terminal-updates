@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "url": "https://raw.githubusercontent.com/Josh7bird/stock-terminal-updates/main/stock-terminal-1.0.8.bin",
-  "md5": "a33938101999ded2aa2af20ad07c357c",
-  "notes": "Restores the portfolio screen to rotation on existing installations when portfolio mode is on, and when switching back from stocks-only mode. Future display choices remain saved."
+  "version": "1.0.9",
+  "url": "https://raw.githubusercontent.com/Josh7bird/stock-terminal-updates/main/stock-terminal-1.0.9.bin",
+  "md5": "7a0eb51b890cfdd40066f2a620cd1891",
+  "notes": "Fixes portfolio donut colours so each slice and ticker label use the holding's movement since the previous market close."
 }
