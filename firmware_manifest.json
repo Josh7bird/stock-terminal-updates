@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "url": "https://raw.githubusercontent.com/Josh7bird/stock-terminal-updates/main/stock-terminal-1.0.6.bin",
-  "md5": "46c449e098919d90009e72971a5db1f4",
-  "notes": "Added a reversible portfolio toggle with separate portfolio and stocks-only setup options."
+  "version": "1.0.8",
+  "url": "https://raw.githubusercontent.com/Josh7bird/stock-terminal-updates/main/stock-terminal-1.0.8.bin",
+  "md5": "a33938101999ded2aa2af20ad07c357c",
+  "notes": "Restores the portfolio screen to rotation on existing installations when portfolio mode is on, and when switching back from stocks-only mode. Future display choices remain saved."
 }
